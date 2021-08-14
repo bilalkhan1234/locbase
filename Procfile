@@ -1,1 +1,1 @@
-web: gunicorn app:locbase
+web: gunicorn app:app
